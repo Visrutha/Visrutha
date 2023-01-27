@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Visrutha
-- 👀 I’m interested in web development and dbms
-- 🌱 I’m currently learning Software engineering
+- 👀 I'm a grad student at UT Arlington
+- 🌱 I’m currently pursuing MS Business Analytics
 - 💞️ I’m looking to collaborate on new things that will help me explore various backgrounds.
 
 <!---
